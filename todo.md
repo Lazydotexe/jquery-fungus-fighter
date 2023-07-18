@@ -31,7 +31,7 @@
     - [x] Update the text above the attack buttons (eg, "100 AP")
     - [x] Update the text above the enemy fungus (eg, "100 HP")
     - [] If Fungus runs out of HP replace the 'walk' class with a 'dead' class
-    - [] if you run out of AP replace the 'walk' class with the 'jump' class
-    - [] if AP is '0'. Give all of the attack buttons a [`disabled`](https://www.w3schools.com/tags/att_button_disabled.asp) attribute, so they may no longer be used.
+    - [x] if you run out of AP replace the 'walk' class with the 'jump' class
+    - [x] if AP is '0'. Give all of the attack buttons a [`disabled`](https://www.w3schools.com/tags/att_button_disabled.asp) attribute, so they may no longer be used.
 
 
